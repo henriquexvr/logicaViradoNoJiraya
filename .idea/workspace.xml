@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27ee35cb-6df6-488e-99d5-c86eb350769a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/logicaViradoNoJiraya" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "henriquexvr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/henriquexvr/logicaViradoNoJiraya.git",
+    "accountId": "0c25d4a5-b572-45ed-9503-4f567fbcffa8"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ymWMW6cNKA5wJFq1pMNhM4gG7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlistamentoMilitar.executor": "Run",
+    "Application.ArraysComFors.executor": "Run",
+    "Application.ArraysComFors2.executor": "Run",
+    "Application.Aula01Introducao.executor": "Run",
+    "Application.CalculadoraDiferencaIdade.executor": "Run",
+    "Application.CalculoSalaioPorcentagem.executor": "Run",
+    "Application.CalculoSalarioPorcentagem.executor": "Run",
+    "Application.Condicionais01.executor": "Run",
+    "Application.DiaDaSemanaSwitch.executor": "Run",
+    "Application.DiasDaSemana.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.ExerciciosVetores.executor": "Run",
+    "Application.IntroducaoArrays.executor": "Run",
+    "Application.IntroducaoArraysMultidimensionais.executor": "Run",
+    "Application.IntroducaoFor.executor": "Run",
+    "Application.MenuBanco.executor": "Run",
+    "Application.NumerosPrimosUsuario.executor": "Run",
+    "Application.PorcentagemDeUmSalario.executor": "Run",
+    "Application.QuadradoPerfeito.executor": "Run",
+    "Application.SalarioPorcentagem.executor": "Run",
+    "Application.SeONumeroEImparOuPar.executor": "Run",
+    "Application.SistemaDeLoginOr.executor": "Run",
+    "Application.TabelaImpostoDeRenda.executor": "Run",
+    "Application.Tabuada.executor": "Run",
+    "Application.TestandoVariavies.executor": "Run",
+    "Application.TipoDeConta.executor": "Run",
+    "Application.TorneioDeNatacao.executor": "Run",
+    "Application.UmAhCem.executor": "Run",
+    "Application.UsuarioApertarZero.executor": "Run",
+    "Application.UsuarioESenha.executor": "Run",
+    "Application.VerificaIdade.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/henrique/IdeaProjects/logica/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CalculoSalarioPorcentagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.variaveis.CalculoSalarioPorcentagem" />
+      <module name="logica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiasDaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiasDaSemana" />
+      <module name="logica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalarioPorcentagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.estruturascondicionais.ifelse.SalarioPorcentagem" />
+      <module name="logica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculoSalarioPorcentagem" />
+        <item itemvalue="Application.DiasDaSemana" />
+        <item itemvalue="Application.SalarioPorcentagem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ee35cb-6df6-488e-99d5-c86eb350769a" name="Changes" comment="" />
+      <created>1750440181464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750440181464</updated>
+    </task>
+    <servers />
+  </component>
+</project>
